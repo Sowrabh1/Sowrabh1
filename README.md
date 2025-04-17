@@ -27,7 +27,7 @@ MERN Stack: Mastering front-end (React) and back-end (Node.js, Express) with Mon
 Java: Enhancing core Java skills for Android and backend development.
 
 🔥 Internship Experience:
-Android Development Intern at TechQuadra IT Company
+React Developer Intern at TechQuadra IT Company
 
 Worked on building and maintaining Android applications with a focus on UI/UX design and integration with external APIs.
 
